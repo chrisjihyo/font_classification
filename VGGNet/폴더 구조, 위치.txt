@@ -1,0 +1,11 @@
+- dataset_split.ipynb를 돌리기 전에
+font_origial_9과 같은 위치에 font_classieir_9 빈폴더 생성
+
+- dataset_split.ipynb로 train, test, val 분류하여
+font_classieir_9 만든 후 VGGNet_font_9.ipynb 돌리기
+
+- font_original_9 폴더 내부
+01, 02, 03, 04, 05, 06, 07, 08, 09 => 총 9개 폰트 폴더로 구성
+각 폰트 폴더 내부에는 11172개의 글자 이미지 저장
+
+- dataset => https://drive.google.com/drive/u/1/folders/1WAhonAjsOoZw61munKKTVvwxTJ4EzgX7
